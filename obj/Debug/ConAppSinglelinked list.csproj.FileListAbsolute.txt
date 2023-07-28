@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSinglelinked list\ConAppSinglelinked list\obj\Debug\ConAppSinglelinked list.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSinglelinked list\ConAppSinglelinked list\obj\Debug\ConAppSinglelinked list.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSinglelinked list\ConAppSinglelinked list\obj\Debug\ConAppSinglelinked list.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSinglelinked list\ConAppSinglelinked list\bin\Debug\ConAppSinglelinked list.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSinglelinked list\ConAppSinglelinked list\bin\Debug\ConAppSinglelinked list.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSinglelinked list\ConAppSinglelinked list\bin\Debug\ConAppSinglelinked list.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSinglelinked list\ConAppSinglelinked list\obj\Debug\ConAppSinglelinked list.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppSinglelinked list\ConAppSinglelinked list\obj\Debug\ConAppSinglelinked list.pdb
